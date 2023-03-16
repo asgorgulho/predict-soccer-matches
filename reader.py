@@ -1,6 +1,8 @@
 def reader
  blabla
 
+ puts "hello"
+
  process
 end
 
